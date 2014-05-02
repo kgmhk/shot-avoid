@@ -1,6 +1,6 @@
 shot-avoid
 ==========
 
-unity_gihyun_shot&avoid in 유니티 러닝센터
+유니티를 이용한 게임
 
 개발중.................
